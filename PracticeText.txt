@@ -1,0 +1,3 @@
+echo is ON 
+
+This is The Practice Text file 
